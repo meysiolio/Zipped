@@ -24,7 +24,6 @@ The next ***X*** lines contains the space separated marks obtained by students i
 **Output Format**
 
 Print the averages of all students on separate lines.  
-
 The averages must be correct up to **1** decimal place.  
 
 **Sample Input**
